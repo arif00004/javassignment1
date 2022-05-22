@@ -1,11 +1,10 @@
 ## Java Basic Assignment 1
 1. What is a programming language? What is Java and what is Java used for?
-Java is a general purpose programming language based on class and object. The language is designed in a way that it can run on any computer architecture. 
-Jave is used on enormous amount of applications and websites. These apps and websites are not going to work unless java installed. From laptops to data centers, game consoles
-to super computers - Java is the go to language. Jave is used to write application and run it virtually on any platform.
+- Java is a general purpose programming language based on class and object. The language is designed in a way that it can run on any computer architecture. 
+Jave is used on enormous amount of applications and websites. These apps and websites are not going to work unless java installed. From laptops to data centers, game consoles to super computers - Java is the go to language. Jave is used to write application and run it virtually on any platform.
 
 2. Which version of Java you are working with? How can you find out the version of Java you are using?
-I am working on Java 8. Using it in a windows terminal and this command is used to find the version - java --version.
+- I am working on Java 8. Using it in a windows terminal and this command is used to find the version - java --version.
 
 3. What is IDE? Which IDE you are working with? 
 IDE stands for Integrated Development Environment. This enables programmers to consolidate different aspects of writing a computer program. I am using InttelliJ IDEA community
