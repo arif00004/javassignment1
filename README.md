@@ -1,6 +1,6 @@
 ## Java Basic Assignment 1
 1. What is a programming language? What is Java and what is Java used for?
-- Java is a general purpose programming language based on class and object. The language is designed in a way that it can run on any computer architecture. 
+Java is a general purpose programming language based on class and object. The language is designed in a way that it can run on any computer architecture. 
 Jave is used on enormous amount of applications and websites. These apps and websites are not going to work unless java installed. From laptops to data centers, game consoles
 to super computers - Java is the go to language. Jave is used to write application and run it virtually on any platform.
 
